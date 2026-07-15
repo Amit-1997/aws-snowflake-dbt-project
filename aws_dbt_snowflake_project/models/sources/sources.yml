@@ -3,7 +3,7 @@ sources:
     database: AIRBNB
     schema: STAGING
     tables:
-      - name: bookinga
+      - name: bookings
       - name: listings
       - name: hosts
 
